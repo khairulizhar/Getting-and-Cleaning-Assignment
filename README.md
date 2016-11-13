@@ -18,7 +18,7 @@ The run_analysis.R script performs the following tasks:
 
 5. Provide labels the data set with descriptive variable names.
 
-6.Creates another and independent tidy data set with the average of each variable for each activity and each subject known as FinalOutput.txt
+6. Creates another and independent tidy data set with the average of each variable for each activity and each subject known as FinalOutput.txt
 
 
 
