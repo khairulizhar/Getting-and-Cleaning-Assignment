@@ -35,7 +35,7 @@ The data basically contains experiments data generated from a group of 30 volunt
 
 Age of volunteers is between 19 to 48 years old
 
-Where each volunteers perform the following activities while wearing Samsung Smarphone Gallaxy S II. relying on its embedded accelerometer and gyroscope (3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.):
+Where each volunteers perform the following activities while wearing Samsung Smarphone Galaxy S II relying on its built it accelerometer and gyroscope (3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.):
 A. WALKING
 B. WALKING_UPSTAIRS
 C. WALKING_DOWNSTAIRS
